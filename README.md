@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me adamcecarfrank@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: n/a
+- ⚡ Fun fact: 
 
 <!---
 cfrank3N/cfrank3N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
